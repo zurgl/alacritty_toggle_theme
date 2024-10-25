@@ -1,0 +1,11 @@
+[package]
+name = "alacritty_toggle_theme"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+
+[[bin]]
+path = "src/main.rs"
+name = "alacritty_toggle_theme"
